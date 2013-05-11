@@ -1,6 +1,6 @@
 # IAcl
 
-iAcl formaly name Evana Fitria ACL, is cakephp ACL plugin
+iAcl is cakephp ACL plugin
 
 A good introduction on how to use this plugin can be found in the CakePHP [Acl Tutorial Documentation](http://book.cakephp.org/2.0/en/tutorials-and-examples/simple-acl-controlled-application/simple-acl-controlled-application.html)
 
@@ -20,8 +20,13 @@ IAcl created by [Benny Leonard Enrico Panggabean](http://whiteboks.com)
 
 # Screenshot
 ![landing page](https://github.com/bendo01/IAcl/blob/master/screenshot/iAcl_1.png "landing page")
+
 ![Aco index page](https://github.com/bendo01/IAcl/blob/master/screenshot/iAcl_IAclAcos_20130511-214424.png "aco index page")
+
 ![Aro index page](https://github.com/bendo01/IAcl/blob/master/screenshot/iAcl_IAclAros_20130511-214447.png "aro index page")
+
 ![set user permission page](https://github.com/bendo01/IAcl/blob/master/screenshot/iAcl_IAclAros_20130511-214447.png "set user permission page")
+
 ![user permission page](https://github.com/bendo01/IAcl/blob/master/screenshot/iAcl_IAclAros_20130511-214942.png "user permission page")
+
 ![group permission page](https://github.com/bendo01/IAcl/blob/master/screenshot/iAcl_IAclAros_20130511-215009.png "group permission page")
