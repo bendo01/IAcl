@@ -1,0 +1,58 @@
+<div class="span2">
+	<!--Sidebar content-->
+	<div class="well sidebar-nav">
+		<ul class="nav nav-list">
+      		<li class="nav-header">Related Module</li>
+      		
+      		<li style="margin-bottom:10px">
+      			<div class="btn-group">
+					<button data-toggle="dropdown" class="btn btn-info dropdown-toggle"><i class="icon-list-alt icon-white"></i> Module <span class="caret"></span></button>
+				   	<ul class="dropdown-menu">
+			            <li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
+		            	<li><a href="#"><i class="icon-trash"></i> Delete</a></li>
+		            	<li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
+		            	<li class="divider"></li>
+		            	<li><a href="#"><i class="i"></i> Make admin</a></li>
+			        </ul>
+				</div>
+      		</li>
+      		<li style="margin-bottom:10px">
+      			<div class="btn-group">
+					<button data-toggle="dropdown" class="btn btn-info dropdown-toggle"><i class="icon-list-alt icon-white"></i> Module <span class="caret"></span></button>
+				   	<ul class="dropdown-menu">
+			            <li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
+		            	<li><a href="#"><i class="icon-trash"></i> Delete</a></li>
+		            	<li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
+		            	<li class="divider"></li>
+		            	<li><a href="#"><i class="i"></i> Make admin</a></li>
+			        </ul>
+				</div>
+      		</li>
+      		<li style="margin-bottom:10px">
+      			<div class="btn-group">
+					<button data-toggle="dropdown" class="btn btn-info dropdown-toggle"><i class="icon-list-alt icon-white"></i> Module <span class="caret"></span></button>
+				   	<ul class="dropdown-menu">
+			            <li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
+		            	<li><a href="#"><i class="icon-trash"></i> Delete</a></li>
+		            	<li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
+		            	<li class="divider"></li>
+		            	<li><a href="#"><i class="i"></i> Make admin</a></li>
+			        </ul>
+				</div>
+      		</li>
+      		<li class="nav-header">Module</li>
+      		<li style="margin-bottom:10px">
+      			<div class="btn-group">
+					<button data-toggle="dropdown" class="btn btn-primary dropdown-toggle"><i class="icon-list-alt icon-white"></i> Module <span class="caret"></span></button>
+				   	<ul class="dropdown-menu">
+			            <li><a href="#"><i class="icon-pencil"></i> Edit</a></li>
+		            	<li><a href="#"><i class="icon-trash"></i> Delete</a></li>
+		            	<li><a href="#"><i class="icon-ban-circle"></i> Ban</a></li>
+		            	<li class="divider"></li>
+		            	<li><a href="#"><i class="i"></i> Make admin</a></li>
+			        </ul>
+				</div>
+      		</li>
+    	</ul>
+  	</div><!--/.well -->
+</div>
