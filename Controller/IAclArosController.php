@@ -42,6 +42,7 @@ class IAclArosController extends IAclAppController {
 	}
 	
 	public function setGroupPermission(){
+		$this->IAclAro->setAroAlias();
 		$listGroups = $this->IAclAro->getAroGroup();
 		$this->set('listGroups', $listGroups);
 	}
