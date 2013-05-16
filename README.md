@@ -2,7 +2,7 @@
 
 iAcl is cakephp ACL plugin
 
-A good introduction on how to use this plugin can be found in the CakePHP [Acl Tutorial Documentation](http://book.cakephp.org/2.0/en/tutorials-and-examples/simple-acl-controlled-application/simple-acl-controlled-application.html)
+A good introduction on Access Control List can be found in the CakePHP [Acl Tutorial Documentation](http://book.cakephp.org/2.0/en/tutorials-and-examples/simple-acl-controlled-application/simple-acl-controlled-application.html)
 
 this plugin based on [Mark Story](http://mark-story.com/), [Acl Extras](https://github.com/markstory/acl_extras) and [Nicolas Rod](http://www.alaxos.net/), [ACL Plugin for CakePHP 2.0](http://www.alaxos.net/blaxos/pages/view/plugin_acl_2.0)
 
