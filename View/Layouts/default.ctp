@@ -46,7 +46,7 @@ $cakeDescription = __d('BLEP ', 'iAcl');
 
 		<!-- Le javascript
 		================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
+		<!-- Placed at the end of the document so the pages load faster and pointing on plugin asset -->
 		<?php echo $this->Html->script('IAcl.require'); ?>
 		<?php echo $this->fetch('script'); //echo $scripts_for_layout;?>
 		<?php $this->Js->writeBuffer(); // Write cached script ?>
